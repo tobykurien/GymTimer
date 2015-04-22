@@ -12,7 +12,7 @@ Dead-simple arduino-based gym timer for StrongLifts 5x5 style gym routine
 
 # Wiring
 
-[![Fritzing breadboard diagram](blob/master/docs/breadboard_bb.png)](blob/master/docs/)
+[![Fritzing breadboard diagram](https://raw.githubusercontent.com/tobykurien/GymTimer/master/docs/breadboard_bb.png)](https://github.com/tobykurien/GymTimer/tree/master/docs)
 
 - Use an Arduino Uno
 - Connect 5 LED's via current-limiting resistors (e.g. 220ohm) to pins 3 to 7.
