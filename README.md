@@ -8,7 +8,7 @@ Dead-simple arduino-based gym timer for StrongLifts 5x5 style gym routine
 - Once buzzer sounds, press button to silence it.
 - Complete next set, then press button to enter rest period.
 - Once buzzer sounds, press button to silence it.
-- If this was the last set, then process repeats from start.
+- Keep going for the rest of the sets. If this was the last set, then process repeats from start.
 
 # Wiring
 
